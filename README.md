@@ -1,2 +1,2 @@
 # Chikicool
-Proyecto 4° ciclo sistema logistica Chikicool menu de jsp a html
+Proyecto 4° ciclo parte del menu de la AppWeb sistema logistica Chikicool  de jsp a html
